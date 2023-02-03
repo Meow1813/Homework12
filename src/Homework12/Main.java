@@ -11,5 +11,6 @@ public class Main {
 
         dogsHeart.setYearOfPublication(1925);
 
+        System.out.println(dogsHeart);
     }
 }
